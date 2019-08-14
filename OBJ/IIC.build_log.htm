@@ -1,0 +1,72 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: ¦ÌVision V5.25.3.0
+Copyright (C) 2018 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: jia 89298, jia, LIC=CRMNN-YEFAP-LUR4M-X1X2X-U9XM8-LTGF0
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Professional  Version: 5.14.0.0
+Toolchain Path:  D:\Program FilesKeil_v5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.05 update 1 (build 106)
+Assembler:       Armasm.exe V5.05 update 1 (build 106)
+Linker/Locator:  ArmLink.exe V5.05 update 1 (build 106)
+Library Manager: ArmAr.exe V5.05 update 1 (build 106)
+Hex Converter:   FromElf.exe V5.05 update 1 (build 106)
+CPU DLL:         SARMCM3.DLL V5.14.0.0
+Dialog DLL:      DARMSTM.DLL V1.65.0.0
+Target DLL:      STLink\ST-LINKIII-KEIL_SWO.dll V2.0.14.0_KEIL
+Dialog DLL:      TARMSTM.DLL V1.64.0.0
+ 
+<h2>Project:</h2>
+C:\Users\89298\Desktop\Work\ECUV10\soft\×Ô¼ºÒÆÖ²\MAX30102\USER\IIC.uvprojx
+Project File Date:  08/07/2019
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.05 update 1 (build 106)', folder: 'D:\Program FilesKeil_v5\ARM\ARMCC\Bin'
+Build target 'Target 1'
+compiling main.c...
+main.c(84): warning:  #111-D: statement is unreachable
+  return 1;
+main.c(43): warning:  #177-D: variable "elapsedTime" was declared but never referenced
+  	uint32_t elapsedTime,timeStart;
+main.c(43): warning:  #177-D: variable "timeStart" was declared but never referenced
+  	uint32_t elapsedTime,timeStart;
+main.c(46): warning:  #550-D: variable "old_n_spo2" was set but never used
+  	float old_n_spo2;  // Previous SPO2 value
+main.c(47): warning:  #177-D: variable "k" was declared but never referenced
+  	uint8_t uch_dummy,k;
+main.c: 5 warnings, 0 errors
+linking...
+Program Size: Code=12828 RO-data=268 RW-data=96 ZI-data=1832  
+FromELF: creating hex file...
+"..\OBJ\IIC.axf" - 0 Error(s), 5 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                http://www.keil.com/pack/ARM.CMSIS.4.2.0.pack
+                ARM.CMSIS.4.2.0
+                CMSIS (Cortex Microcontroller Software Interface Standard)
+   * Component: CORE Version: 3.40.0
+
+Package Vendor: Keil
+                http://www.keil.com/pack/Keil.STM32F1xx_DFP.1.0.5.pack
+                Keil.STM32F1xx_DFP.1.0.5
+                STMicroelectronics STM32F1 Series Device Support, Drivers and Examples
+
+<h2>Collection of Component include folders:</h2>
+  .\RTE\_Target_1
+  D:\Program FilesKeil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include
+  D:\Program FilesKeil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ARM::CMSIS:CORE:3.40.0
+      Source file:   CMSIS\UserCodeTemplates\ARM\ITM_Retarget.c
+Build Time Elapsed:  00:00:02
+</pre>
+</body>
+</html>
