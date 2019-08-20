@@ -135,7 +135,7 @@
         <SetRegEntry>
           <Number>0</Number>
           <Key>ST-LINKIII-KEIL_SWO</Key>
-          <Name>-U53FF6F064971545135351987 -I0 -O8270 -S1 -C0 -A0 -N00("ARM CoreSight SW-DP") -D00(1BA01477) -L00(0) -TO18 -TC10000000 -TP21 -TDS8007 -TDT0 -TDC1F -TIEFFFFFFFF -TIP8 -FO7 -FD20000000 -FC800 -FN1 -FF0STM32F10x_128 -FS08000000 -FL010000</Name>
+          <Name>-U303030303030303030303031 -I0 -O8270 -S1 -C0 -A0 -N00("ARM CoreSight SW-DP") -D00(1BA01477) -L00(0) -TO18 -TC10000000 -TP21 -TDS8004 -TDT0 -TDC1F -TIEFFFFFFFF -TIP8 -FO15 -FD20000000 -FC800 -FN1 -FF0STM32F10x_128 -FS08000000 -FL010000</Name>
         </SetRegEntry>
         <SetRegEntry>
           <Number>0</Number>
@@ -157,18 +157,18 @@
         <Bp>
           <Number>0</Number>
           <Type>0</Type>
-          <LineNumber>61</LineNumber>
+          <LineNumber>70</LineNumber>
           <EnabledFlag>1</EnabledFlag>
-          <Address>134218318</Address>
+          <Address>134218304</Address>
           <ByteObject>0</ByteObject>
           <HtxType>0</HtxType>
           <ManyObjects>0</ManyObjects>
           <SizeOfObject>0</SizeOfObject>
           <BreakByAccess>0</BreakByAccess>
           <BreakIfRCount>1</BreakIfRCount>
-          <Filename>C:\Users\89298\Desktop\Work\ECUV10\soft\鑷繁绉绘\MAX30102\USER\main.c</Filename>
+          <Filename>F:\desk\Work\ECUV10\soft\鑷繁绉绘\MAX30102\USER\main.c</Filename>
           <ExecCommand></ExecCommand>
-          <Expression>\\IIC\main.c\61</Expression>
+          <Expression>\\IIC\main.c\70</Expression>
         </Bp>
       </Breakpoint>
       <WatchWindow1>
@@ -351,7 +351,7 @@
       <GroupNumber>2</GroupNumber>
       <FileNumber>8</FileNumber>
       <FileType>1</FileType>
-      <tvExp>0</tvExp>
+      <tvExp>1</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
       <PathWithFileName>.\algorithm_by_RF.c</PathWithFileName>

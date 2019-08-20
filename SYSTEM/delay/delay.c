@@ -1,6 +1,6 @@
 #include "delay.h"
 #include "sys.h"
-#define SystemCoreClock 8000000
+#define SystemCoreClock 48000000
 ////////////////////////////////////////////////////////////////////////////////// 	 
 //如果使用ucos,则包括下面的头文件即可.
 #if SYSTEM_SUPPORT_UCOS

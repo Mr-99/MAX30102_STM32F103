@@ -1,5 +1,5 @@
 Dependencies for Project 'IIC', Target 'Target 1': (DO NOT MODIFY !)
-F (.\main.c)(0x5D4A7CD7)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\IIC -I ..\HARDWARE\OLED -I ..\HARDWARE\LED-I.\RTE\_Target_1-I"D:\Program FilesKeil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include"-I"D:\Program FilesKeil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include"-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\main.o --omf_browse ..\obj\main.crf --depend ..\obj\main.d)
+F (.\main.c)(0x5D5BAA12)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\IIC -I ..\HARDWARE\OLED -I ..\HARDWARE\LED-I.\RTE\_Target_1-I"D:\Program FilesKeil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include"-I"D:\Program FilesKeil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include"-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\main.o --omf_browse ..\obj\main.crf --depend ..\obj\main.d)
 I (..\HARDWARE\LED\led.h)(0x59199ECE)
 I (..\SYSTEM\sys\sys.h)(0x5055B57C)
 I (..\USER\stm32f10x.h)(0x4D783CB4)
@@ -67,7 +67,7 @@ I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
 I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x504F415E)
 I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
 I (..\SYSTEM\delay\delay.h)(0x50513B7A)
-F (..\HARDWARE\IIC\max30102.c)(0x5D4A7A4C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\IIC -I ..\HARDWARE\OLED -I ..\HARDWARE\LED-I.\RTE\_Target_1-I"D:\Program FilesKeil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include"-I"D:\Program FilesKeil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include"-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\max30102.o --omf_browse ..\obj\max30102.crf --depend ..\obj\max30102.d)
+F (..\HARDWARE\IIC\max30102.c)(0x5D5BA154)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\IIC -I ..\HARDWARE\OLED -I ..\HARDWARE\LED-I.\RTE\_Target_1-I"D:\Program FilesKeil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include"-I"D:\Program FilesKeil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include"-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\max30102.o --omf_browse ..\obj\max30102.crf --depend ..\obj\max30102.d)
 I (..\HARDWARE\IIC\max30102.h)(0x5B6EBBDE)
 I (..\SYSTEM\sys\sys.h)(0x5055B57C)
 I (..\USER\stm32f10x.h)(0x4D783CB4)
@@ -109,7 +109,7 @@ I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
 I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x504F415E)
 I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
 I (D:\Program FilesKeil_v5\ARM\ARMCC\include\math.h)(0x5475F2FE)
-F (..\SYSTEM\delay\delay.c)(0x5D4A7ABB)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\IIC -I ..\HARDWARE\OLED -I ..\HARDWARE\LED-I.\RTE\_Target_1-I"D:\Program FilesKeil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include"-I"D:\Program FilesKeil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include"-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\delay.o --omf_browse ..\obj\delay.crf --depend ..\obj\delay.d)
+F (..\SYSTEM\delay\delay.c)(0x5D5BAA56)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\IIC -I ..\HARDWARE\OLED -I ..\HARDWARE\LED-I.\RTE\_Target_1-I"D:\Program FilesKeil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include"-I"D:\Program FilesKeil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include"-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\delay.o --omf_browse ..\obj\delay.crf --depend ..\obj\delay.d)
 I (..\SYSTEM\delay\delay.h)(0x50513B7A)
 I (..\SYSTEM\sys\sys.h)(0x5055B57C)
 I (..\USER\stm32f10x.h)(0x4D783CB4)
@@ -147,7 +147,7 @@ I (..\SYSTEM\usart\usart.h)(0x50513AC4)
 I (D:\Program FilesKeil_v5\ARM\ARMCC\include\stdio.h)(0x5475F300)
 F (..\CORE\core_cm3.c)(0x4C0C587E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\IIC -I ..\HARDWARE\OLED -I ..\HARDWARE\LED-I.\RTE\_Target_1-I"D:\Program FilesKeil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include"-I"D:\Program FilesKeil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include"-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\core_cm3.o --omf_browse ..\obj\core_cm3.crf --depend ..\obj\core_cm3.d)
 I (D:\Program FilesKeil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
-F (..\CORE\startup_stm32f10x_md.s)(0x4D783CD2)(--cpu Cortex-M3 -g --apcs=interwork -I.\RTE\_Target_1-I"D:\Program FilesKeil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include"-I"D:\Program FilesKeil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include"--pd "__UVISION_VERSION SETA 525" --pd "_RTE_ SETA 1" --pd "STM32F10X_MD SETA 1"--list .\startup_stm32f10x_md.lst --xref -o ..\obj\startup_stm32f10x_md.o --depend ..\obj\startup_stm32f10x_md.d)
+F (..\CORE\startup_stm32f10x_md.s)(0x5D5B9409)(--cpu Cortex-M3 -g --apcs=interwork -I.\RTE\_Target_1-I"D:\Program FilesKeil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include"-I"D:\Program FilesKeil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include"--pd "__UVISION_VERSION SETA 525" --pd "_RTE_ SETA 1" --pd "STM32F10X_MD SETA 1"--list .\startup_stm32f10x_md.lst --xref -o ..\obj\startup_stm32f10x_md.o --depend ..\obj\startup_stm32f10x_md.d)
 F (..\STM32F10x_FWLib\src\stm32f10x_gpio.c)(0x4D79EEC6)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\IIC -I ..\HARDWARE\OLED -I ..\HARDWARE\LED-I.\RTE\_Target_1-I"D:\Program FilesKeil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include"-I"D:\Program FilesKeil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include"-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\stm32f10x_gpio.o --omf_browse ..\obj\stm32f10x_gpio.crf --depend ..\obj\stm32f10x_gpio.d)
 I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x50515FBA)
 I (..\USER\stm32f10x.h)(0x4D783CB4)
